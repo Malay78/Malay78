@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Malay78/Malay78/blob/main/focus-animation.gif)
 <h1 align="center">Hi 👋, I'm Malay Gupta</h1>
 <h3 align="center">A passionate Android App Developer from India</h3>
 <img align="right" alt="Coding" width="400" src = "https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
